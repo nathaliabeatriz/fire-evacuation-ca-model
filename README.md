@@ -1,4 +1,4 @@
-<h2 align="center"> Scientific Research Project: Pedestrian Evacuation Simulations modeled by Cellular Automata during Forest Fires in the Cerrado Biome ♨️</h2>
+<h2 align="center"> Scientific Research Project: Pedestrian Evacuation Simulations modeled by Cellular Automata during Forest Fires in the Cerrado Biome</h2>
 <p align="center">
   <a href="#-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-system-description">System Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@ src/
 ### 📝 Publications 
 - 11º Encontro de Ensino Pesquisa e Extensão (EnPE) -
   - <a href="http://enpe.ptc.iftm.edu.br/index.php/enpe/article/view/411">Access Publication</a>
-  - <a href="https://www.researchgate.net/publication/390795313_ANALISE_DO_DESLOCAMENTO_DE_PEDESTRES_EM_EMERGENCIAS_SIMULACAO_DE_AUTOMATOS_CELULARES_NO_PARQUE_NACIONAL_DE_SETE_CIDADES">Acess Full-text </a> 
+  - <a href="https://www.researchgate.net/publication/390795313_ANALISE_DO_DESLOCAMENTO_DE_PEDESTRES_EM_EMERGENCIAS_SIMULACAO_DE_AUTOMATOS_CELULARES_NO_PARQUE_NACIONAL_DE_SETE_CIDADES">Access Full-text </a> 
 
 ---
 
