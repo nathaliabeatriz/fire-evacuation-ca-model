@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# Visual Studio Code
+*.vscode/
+
 # Executables
 *.exe
 *.out
