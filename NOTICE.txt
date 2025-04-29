@@ -1,0 +1,14 @@
+Copyright 2024-2025 Nathália Beatriz Leonel Santos & Danielli Araújo Lima
+
+This product includes software developed by Nathália Beatriz Leonel Santos and Danielli Araújo Lima.
+Licensed under the Apache License, Version 2.0.
+
+Additional notices:
+
+- Some geographic images used in this project were adapted from data provided by TerraBrasilis, licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).  
+  License link: https://creativecommons.org/licenses/by-sa/4.0/  
+  The adapted images remain under the same license.
+
+- Specific credits:
+  - Base map adapted from © TerraBrasilis (https://terrabrasilis.dpi.inpe.br/)  
+    License: CC BY-SA 4.0
